@@ -8,4 +8,4 @@ Uma calculadora simples em Python para calcular custos de viagens em veículos a
 4. Execute o comando `python3 calculadora-gasosa.py`.
 
 ## Prospectivas para o futuro
-Tenho em mente uma ideia de um aplicativo com ferramentas para calcular, gerenciar e acompanhar o uso e as despesas de combustível. Talvez eu implemente essa calculadora no aplicativo de alguma forma caso essa ideia de projeto siga em frente.
+Tenho em mente criar um aplicativo com ferramentas para calcular, gerenciar e acompanhar o uso e as despesas de combustível. Talvez eu implemente essa calculadora no aplicativo de alguma forma, caso essa ideia siga em frente.
